@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author One For All
+ * @author 201803210613
  */
 public class Paciente {
     public static ArrayList listaPaciente = new ArrayList();
